@@ -1,0 +1,45 @@
+body{
+    background-color: yellow;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-left: 25px;
+    border-right: 25px;
+    border-bottom: 25px;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    font-family: 'Amatic SC', cursive;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
