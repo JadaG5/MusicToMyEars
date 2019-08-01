@@ -12,18 +12,25 @@ body{
     border-bottom: 25px;
 }
 
-h2{
+h1{
     text-align: center;
+
+}
+
+h2{
+    text-align: left;
 }
 
 h3{
     font-family: 'Amatic SC', cursive;
     color: red;
+    text-align: right;
 }
 
 .topnav {
   overflow: hidden;
   background-color: red;
+  color: green;
 }
 
 .topnav a {
@@ -52,9 +59,15 @@ p{
 .MyFavorites{
     text-align: left;
     color: white;
-    background-color: green;
+    background-color:blue;
 }
 
+
+.YourFavorite{
+    text-align: center;
+    color: black;
+    background-color: red;
+    position: static;
 
 
 
