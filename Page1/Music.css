@@ -43,7 +43,7 @@ h3{
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: rgb(221, 221, 221);
   color: black;
 }
 
@@ -70,10 +70,7 @@ p{
     position: static;
 
 h5{
-    text-align: left;
+    text-align: center;
 }
 
-
-
-}
 
