@@ -23,7 +23,7 @@ h2{
 h3{
     font-family: 'Amatic SC', cursive;
     color: red;
-    text-align: right;
+    text-align: center;
 }
 
 .topnav {
@@ -67,10 +67,11 @@ p{
     color: black;
     background-color: red;
     position: static;
+    image-orientation: 30%;
 }
 
 h5{
-    text-align: center;
+    text-align: left;
 }
 
 
